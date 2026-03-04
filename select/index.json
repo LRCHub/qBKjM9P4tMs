@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "I know love",
+  "base_artist": "Tate McRae",
+  "createdAt": "2026-03-04T03:10:36.378638Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Now That I Know Love",
+      "artist": "Kenny Loggins",
+      "has_synced": true,
+      "path": "select/01_Now_That_I_Know_Love_Kenny_Loggins.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Know (Love Decade remix)",
+      "artist": "New Atlantic",
+      "has_synced": false,
+      "path": "select/02_I_Know_(Love_Decade_remix)_New_Atlantic.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Know Love",
+      "artist": "J. Holiday",
+      "has_synced": false,
+      "path": "select/03_I_Know_Love_J._Holiday.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Know Love",
+      "artist": "The Everly Brothers",
+      "has_synced": false,
+      "path": "select/04_I_Know_Love_The_Everly_Brothers.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Now That I Know Love (Album Version)",
+      "artist": "Kenny Loggins",
+      "has_synced": false,
+      "path": "select/05_Now_That_I_Know_Love_(Album_Version)_Kenny_Loggins.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Know Love (Bonus Track)",
+      "artist": "Chronixx",
+      "has_synced": true,
+      "path": "select/06_I_Know_Love_(Bonus_Track)_Chronixx.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Now That I Know Love",
+      "artist": "Loggins, Kenny",
+      "has_synced": false,
+      "path": "select/07_Now_That_I_Know_Love_Loggins,_Kenny.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Know Love Is All I Need",
+      "artist": "Rodney Crowell",
+      "has_synced": true,
+      "path": "select/08_I_Know_Love_Is_All_I_Need_Rodney_Crowell.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Know Love",
+      "artist": "Chronixx",
+      "has_synced": true,
+      "path": "select/09_I_Know_Love_Chronixx.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "How Could I Know (Love Was To Go)",
+      "artist": "Raul Seixas",
+      "has_synced": true,
+      "path": "select/10_How_Could_I_Know_(Love_Was_To_Go)_Raul_Seixas.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Know Love",
+      "artist": "Hi-Five",
+      "has_synced": true,
+      "path": "select/11_I_Know_Love_Hi-Five.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Know Love",
+      "artist": "Maxi Priest",
+      "has_synced": true,
+      "path": "select/12_I_Know_Love_Maxi_Priest.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "How Could I Know (Love Was To Go)",
+      "artist": "Raul Seixas",
+      "has_synced": false,
+      "path": "select/13_How_Could_I_Know_(Love_Was_To_Go)_Raul_Seixas.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "How Could I Know (Love Was To Go)",
+      "artist": "Zé Ramalho",
+      "has_synced": true,
+      "path": "select/14_How_Could_I_Know_(Love_Was_To_Go)_Zé_Ramalho.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "How Could I Know (Love Was To Go)",
+      "artist": "Raul Seixas",
+      "has_synced": true,
+      "path": "select/15_How_Could_I_Know_(Love_Was_To_Go)_Raul_Seixas.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "How Could I Know (Love Was To Go)",
+      "artist": "Raul Seixas",
+      "has_synced": true,
+      "path": "select/16_How_Could_I_Know_(Love_Was_To_Go)_Raul_Seixas.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I know love (feat. The Kid LAROI)",
+      "artist": "Tate McRae, The Kid LAROI",
+      "has_synced": false,
+      "path": "select/pl_01_I_know_love_(feat._The_Kid_LAROI)_Tate_McRae,_The_Kid_LAROI.txt"
+    }
+  ]
+}
